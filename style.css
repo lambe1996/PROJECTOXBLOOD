@@ -1,0 +1,36 @@
+.pr_header{
+	background-image: url("../img/top-header.png");
+	background-size: cover;
+}
+.pr_top_header{
+	padding:  4em 0 2em 6em;
+}
+.pr_content{
+	background-image: url("../img/bg-content.jpg");
+	background-size: cover;
+}
+.pr_title{
+	color: white;
+}
+.pr_sub_title{
+	color: white;
+	font-size: 1.3em;
+}
+.pr_m{
+	margin-top: 15%;
+}
+.carousel-item img{
+	max-height: 700px;
+	max-width: 90%;
+}
+.carousel-indicators [data-bs-target]{
+	width: 20px;
+	height: 20px;
+	border-radius:  50%;
+}
+.nav-item{
+	margin-right:  5%;
+}
+.nav-link{
+	color: #150302;
+}
